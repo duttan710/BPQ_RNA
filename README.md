@@ -3,5 +3,5 @@ A Hybrid quantum-classical pipeline for predicting RNA secondary structures, inc
 
 
 The contents of this repository are part of the work titled 
-# A Thermodynamically Informed Base-pair QUBO for RNA Folding
+# A Thermodynamically Informed Base-pair QUBO for RNA Secondary Structure Prediction including Post-transcriptional Modifications. 
 **Authors:** Nivedita Dutta, Quentin Vicens, and Liwen Shih 
