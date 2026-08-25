@@ -13,6 +13,22 @@ BPQ_RNA is a hybrid quantum-classical framework for predicting RNA secondary str
 
 The BPQ_RNA Colab notebook can be accessed here: [BPQ_RNA](https://colab.research.google.com/drive/1Cq4usbkZ2FW9y0_sZ1hvk12XFBa-vkpW?authuser=1#scrollTo=QyusiFCFcslu)
 
+### Quick Start (Google Colab)
+
+Click the badge below to run the BPQ_RNA pipeline directly in your browser:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cq4usbkZ2FW9y0_sZ1hvk12XFBa-vkpW?authuser=1#scrollTo=QyusiFCFcslu)
+
+### Prerequisites & Hardware
+* **Colab Runtime:** Standard T4 GPU (change runtime type)
+* **Dependencies:** Pre-configured in the notebook's first setup cell (installs required quantum and bio-python packages automatically).
+
+### Notebook Execution Flow
+1. **Environment Initialization:** Imports NNDB parameters and quantum optimization libraries.
+2. **Input Definition:** Pass RNA sequences including post-transcriptional modifications.
+3. **QUBO Construction:** Maps NNDB free energy values directly onto the native base-pair Hamiltonian.
+4. **QAOA Optimization:** Runs classical baseline vs. QAOA quantum optimization, tracking convergence.
+5. **Maturation Layer:** Resolves energetic loop consequences and outputs the final secondary structure in dot-bracket format.
 **Citation:** Dutta, N., Vicens, Q., and Shih, L. A Thermodynamically Informed Base-pair QUBO for RNA Secondary Structure Prediction including Post-transcriptional Modifications.
 
 ## Free Energy Parameters
