@@ -17,3 +17,6 @@ When you use BPQ_RNA, please also cite
    
 3. Kierzek, E., Zhang, X., Watson, R.M. et al. (2022). Secondary structure prediction for RNA sequences including N6-methyladenosine. Nat Commun 13, 1271. 
 
+## The BPQ_RNA Colab notebook can be accessed here
+
+(BPQ_RNA)[https://colab.research.google.com/drive/1Cq4usbkZ2FW9y0_sZ1hvk12XFBa-vkpW?authuser=1#scrollTo=QyusiFCFcslu]
