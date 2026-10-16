@@ -3,11 +3,11 @@
 A Hybrid quantum-classical pipeline for predicting RNA secondary structures, including post-transcriptional modifications, using a native base-pair-level Quadratic Unconstrained Binary Optimization (QUBO) formulation.
 
 The contents of this repository are part of the work titled:
-## A Thermodynamically Informed Base-pair QUBO for RNA Secondary Structure Prediction including Post-transcriptional Modifications
+## BPQ_RNA: A Thermodynamically Informed, hybrid Quantum-Classical Framework for RNA 2D Structure Prediction including Chemical Modifications
 
 **Authors:** Nivedita Dutta, Quentin Vicens, and Liwen Shih
 
-BPQ_RNA is a hybrid quantum-classical framework for predicting RNA secondary structures using a natively base-pair-level Quadratic Unconstrained Binary Optimization (QUBO) formulation. By mapping experimental Nearest Neighbor Database (NNDB) free energies directly onto the Hamiltonian, we bypass coarse-grained pre-assembly. This code executes exact classical baselines, quantum optimization via QAOA (tracking algorithmic tunneling convergence), and a classical maturation post-processing layer to resolve the energetic consequences of loops and dangling ends.
+BPQ_RNA is a hybrid quantum-classical pipeline for predicting RNA secondary structures using a natively base-pair-level Quadratic Unconstrained Binary Optimization (QUBO) formulation. By mapping experimental Nearest Neighbor Database (NNDB) free energies directly onto the Hamiltonian, we bypass coarse-grained pre-assembly. This notebook implements the QUBO formulation, quantum optimization via QAOA (with randomized multistart initialization and multireplica sampling), and a classical maturation post-processing layer to resolve the energetic consequences of loops and dangling ends.
 
 ## Google Colab Notebook
 
