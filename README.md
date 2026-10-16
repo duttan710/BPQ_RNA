@@ -17,7 +17,7 @@ The BPQ_RNA Colab notebook can be accessed here: [BPQ_RNA](https://colab.researc
 
 Click the badge below to run the BPQ_RNA pipeline directly in your browser:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/duttan710/BPQ_RNA/blob/main/BPQ_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/duttan710/BPQ_RNA/blob/main/BPQ_RNA_example.ipynb)
 
 ### Prerequisites & Hardware
 * **Colab Runtime:** Standard T4 GPU (change runtime type)
