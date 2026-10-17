@@ -27,7 +27,7 @@ Click the badge below to run the BPQ_RNA pipeline directly in your browser:
 1. **Environment Initialization:** Imports NNDB parameters and quantum optimization libraries.
 2. **Input Definition:** Pass RNA sequences including post-transcriptional modifications.
 3. **QUBO Construction:** Maps NNDB free energy values directly onto the native base-pair Hamiltonian.
-4. **QAOA Optimization:** Runs classical baseline vs. QAOA quantum optimization, tracking convergence.
+4. **QAOA Optimization:** Runs classical free energy-based baseline calculations vs. QAOA quantum optimization, tracking convergence.
 5. **Maturation Layer:** Resolves energetic loop consequences and outputs the final secondary structure in dot-bracket format.
 **Citation:** Dutta, N., Vicens, Q., and Shih, L. A Thermodynamically Informed Base-pair QUBO for RNA Secondary Structure Prediction including Post-transcriptional Modifications.
 
