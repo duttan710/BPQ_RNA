@@ -9,10 +9,6 @@ The contents of this repository are part of the work titled:
 
 BPQ_RNA is a hybrid quantum-classical pipeline for predicting RNA secondary structures using a natively base-pair-level Quadratic Unconstrained Binary Optimization (QUBO) formulation. By mapping experimental Nearest Neighbor Database (NNDB) free energies directly onto the Hamiltonian, we bypass coarse-grained pre-assembly. This notebook implements the QUBO formulation, quantum optimization via QAOA (with randomized multistart initialization and multireplica sampling), and a classical maturation post-processing layer to resolve the energetic consequences of loops and dangling ends.
 
-## Google Colab Notebook
-
-The BPQ_RNA Colab notebook can be accessed here: [BPQ_RNA](https://colab.research.google.com/drive/1Cq4usbkZ2FW9y0_sZ1hvk12XFBa-vkpW?authuser=1#scrollTo=QyusiFCFcslu)
-
 ### Quick Start (Google Colab)
 
 Click the badge below to run the BPQ_RNA pipeline directly in your browser:
