@@ -31,7 +31,7 @@ Click the badge below to run the BPQ_RNA pipeline directly in your browser:
 
 The experimentally derived Free energy parameters in efficiently utilizable formats are provided here: [Free Energy Parameters Gist](https://gist.github.com/duttan710/1429a1150dcd7d75fb5ca0cf29b92963/)
 
-When utilizing the notebook or the integrated thermodynamic parameter set, please also cite the following primary references:
+When utilizing the notebook or the integrated nearest neighbor free energy parameters, please also cite the following primary references:
 
 1. Turner, D. H. & Mathews, D. H. (2009). NNDB: The nearest neighbor parameter database for predicting stability of nucleic acid secondary structure. *Nucleic Acids Research*, 38, D280-D282.
 2. Mittal, A., Turner, D. H., & Mathews, D. H. (2024). NNDB: An Expanded Database of Nearest Neighbor Parameters for Predicting Stability of Nucleic Acid Secondary Structures. *Journal of Molecular Biology*, 168549.
