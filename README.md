@@ -3,7 +3,7 @@
 A Hybrid quantum-classical pipeline for predicting RNA secondary structures, including post-transcriptional modifications, using a native base-pair-level Quadratic Unconstrained Binary Optimization (QUBO) formulation.
 
 The contents of this repository are part of the work titled:
-## BPQ_RNA: A Thermodynamically Informed, hybrid Quantum-Classical Framework for RNA 2D Structure Prediction Including Chemical Modifications
+## BPQ_RNA: A Thermodynamically Informed, Hybrid Quantum-Classical Framework for RNA 2D Structure Prediction Including Chemical Modifications
 
 **Authors:** Nivedita Dutta, Quentin Vicens, and Liwen Shih
 
